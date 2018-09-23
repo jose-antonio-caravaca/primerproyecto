@@ -17,6 +17,10 @@ public class Main {
         public static void main(String[] args) {
             //Mensaje mensa=new Mensaje("Hola");
             System.out.println("principal.Main.main()");
+            Main main=new Main();
+            String bienvenida="Bienvenido a este nuevo mundo";
+            System.out.println(main.Mensaje(bienvenida));
+            
        
     }
 
