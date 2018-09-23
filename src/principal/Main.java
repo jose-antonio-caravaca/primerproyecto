@@ -20,7 +20,11 @@ public class Main {
             Main main=new Main();
             String bienvenida="Bienvenido a este nuevo mundo";
             System.out.println(main.Mensaje(bienvenida));
+            Metodos metodos=new Metodos();
+            metodos.datos(bienvenida);
             
+            //Prueba para ver si cuando arranco el proyecto automáticamente
+            //coge la última versión. Ahora voy a subir este texto
        
     }
 
