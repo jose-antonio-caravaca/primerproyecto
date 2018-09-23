@@ -22,7 +22,7 @@ public class Main {
             System.out.println(main.Mensaje(bienvenida));
             Metodos metodos=new Metodos();
             metodos.datos(bienvenida);
-            
+            metodos.Calculo(29);
             //Prueba para ver si cuando arranco el proyecto automáticamente
             //coge la última versión. Ahora voy a subir este texto
        
